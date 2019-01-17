@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Zach Statema\n");
+  printf("Computer Engineering\n");
 
   return 0;
 }
